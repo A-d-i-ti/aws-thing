@@ -1,5 +1,4 @@
-# aws-thing
-hey there ! here is learnings from aws
+
 ## Deploying openstack using Devstack 
 ### Update and Upgrade the System
 ```
